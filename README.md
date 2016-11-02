@@ -29,3 +29,6 @@ Commands
 
 ##give some of your points to someone else
 !give NAME VALUE    (!give franklin_bot 100) 
+
+##show the bots points
+!fpoints
