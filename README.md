@@ -19,7 +19,7 @@ Commands
 !bet AMOUNT         (!bet 50)
 
 ##show text on stream (costs 100 points)
-!showtext your message
+!showtext your message<br>
 !showtext Australian Female, your message
 
 available voices:
