@@ -12,6 +12,9 @@ Commands
 ##show how long i have been online or offline for
 !uptime             
 
+##shows how long you have been in this chat for in total
+!inchat
+
 ##show your points, you get 1 points every minute
 !points             
 
@@ -20,7 +23,7 @@ Commands
 
 ##show text on stream (costs 100 points)
 !showtext your message<br>
-!showtext Australian Female, your message
+!showtext Australian Female, your message mate
 
 available voices:
 ~ UK English Female
