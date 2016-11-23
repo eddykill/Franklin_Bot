@@ -18,6 +18,25 @@ Commands
 ##bet AMOUNT and have a 50/50 to win, > 50 = win
 !bet AMOUNT         (!bet 50)
 
+##show text on stream (costs 100 points)
+!showtext your message
+!showtext Australian Female, your message
+
+available voices:
+~ UK English Female
+~ UK English Male
+~ Arabic Male
+~ Arabi Female
+~ Australian Female
+~ Chinese Female
+~ Turkish Female
+~ Deutsch Female
+~ Dutch Female
+~ Indonesian Female
+~ Japanese Female
+~ Korean Female
+~ Russian Female
+
 ##random roll between 1-100
 !roll               
 
